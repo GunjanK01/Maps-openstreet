@@ -6,7 +6,7 @@ This is a Flutter project that integrates map functionality using the OpenStreet
 
 - **Interactive Map**: View and interact with maps powered by OpenStreetMap.
 
-## Screenshots
+## Screenshots 
 ![maps](https://github.com/user-attachments/assets/ac422a31-cdef-4eb6-ac29-2dc82f71fb91)
 
 ### Prerequisites
@@ -15,7 +15,7 @@ This is a Flutter project that integrates map functionality using the OpenStreet
 
 ### Installation
 
-1. **Clone the repository**:
+1. **Clone the repository**
 2. Install dependencies: flutter pub get
 3. Run the app: flutter run
 
@@ -23,5 +23,5 @@ This is a Flutter project that integrates map functionality using the OpenStreet
 If you plan to add additional map layers or other APIs, make sure to configure the necessary API keys in the project files as needed.
 
 ## Dependencies: 
-Flutter
-OpenStreetMap
+- Flutter
+- OpenStreetMap
